@@ -1,1 +1,2 @@
-# Backend-notes
+# Backend notes
+I will try to Upload anything I find useful in Computer Science in general, and in Backend Development in particular. This includes: Cheatsheets, books, articles, tutorial videos.....
