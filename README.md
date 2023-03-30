@@ -13,6 +13,6 @@ I will try to Upload anything I find useful in Computer Science in general, and 
 - What the heck is the event loop anyway? | Philip Roberts: https://www.youtube.com/watch?v=8aGhZQkoFbQ
 
 
-Papers:
+# Papers:
 
-Sparks of Artificial General Intelligence: https://arxiv.org/abs/2303.12712
+- Sparks of Artificial General Intelligence: https://arxiv.org/abs/2303.12712
