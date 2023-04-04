@@ -12,6 +12,7 @@ I will try to Upload anything I find useful in Computer Science in general, and 
 # Videos
 
 - What the heck is the event loop anyway? | Philip Roberts: https://www.youtube.com/watch?v=8aGhZQkoFbQ
+- Missing Semester | MIT: https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J
 
 
 # Papers:
