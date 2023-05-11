@@ -9,6 +9,7 @@ I will try to upload anything I find useful in Computer Science in general, and 
 - Refactoring.Guru. Design Patterns: https://refactoring.guru/design-patterns
 - A Java version:https://refactoring.guru/design-patterns/java
 - Bash Scripting tutorial: https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/
+- Web.dev: https://web.dev/
 
 
 # Videos
